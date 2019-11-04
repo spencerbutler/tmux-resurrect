@@ -1,4 +1,4 @@
-# Spencer's Fork of Tmux Resurrect
+# Spencer's Fork of Tmux Resurrect ([issue](https://github.com/tmux-plugins/tmux-resurrect/pull/314))
 
 [![Build Status](https://travis-ci.org/spencerbutler/tmux-resurrrect.svg?branch=master)](https://travis-ci.org/spencerutler/tmux-resurrect)
 
